@@ -156,6 +156,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Project-specific
+data/
+.databricks/
 
 # Spyder project settings
 .spyderproject
